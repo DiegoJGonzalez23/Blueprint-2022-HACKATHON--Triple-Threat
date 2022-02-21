@@ -1,6 +1,7 @@
 # Blueprint-2022-HACKATHON--Triple-Threat
 Repo for the 2022 blueprint hackathon for team "triple threat"
-
+-Teammates: Diego Gonzalez (me) and Edelio Taboada
+I handled mostly the buttons and the solver itself while my partner took care of displaying minesweeper
 
 #Minesweeper rules are simple. Click on squares, the number shown will be the number of bombs adjacent to the square (diagonals included). Avoid bombs!
 As long as you clear every square that isn't a bomb you'll win!
